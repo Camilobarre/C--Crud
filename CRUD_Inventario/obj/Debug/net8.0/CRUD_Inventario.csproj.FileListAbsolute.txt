@@ -1,0 +1,15 @@
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/bin/Debug/net8.0/CRUD_Inventario
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/bin/Debug/net8.0/CRUD_Inventario.deps.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/bin/Debug/net8.0/CRUD_Inventario.runtimeconfig.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/bin/Debug/net8.0/CRUD_Inventario.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/bin/Debug/net8.0/CRUD_Inventario.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/obj/Debug/net8.0/CRUD_Inventario.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/obj/Debug/net8.0/CRUD_Inventario.AssemblyInfoInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/obj/Debug/net8.0/CRUD_Inventario.AssemblyInfo.cs
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/obj/Debug/net8.0/CRUD_Inventario.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/obj/Debug/net8.0/CRUD_Inventario.sourcelink.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/obj/Debug/net8.0/CRUD_Inventario.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/obj/Debug/net8.0/refint/CRUD_Inventario.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/obj/Debug/net8.0/CRUD_Inventario.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/obj/Debug/net8.0/CRUD_Inventario.genruntimeconfig.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/CRUD_Inventario/obj/Debug/net8.0/ref/CRUD_Inventario.dll
